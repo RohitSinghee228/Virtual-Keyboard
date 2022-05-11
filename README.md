@@ -17,7 +17,7 @@ PyCharm is used here for efficient programming.
 
 **NOTE**: Works on single finger input during the keyboard input.
 ## Achievements
-![SESSION21](https://drive.google.com/file/d/1DKggyTv7hv63dSlZWyN73EcF4s_88Jy_/view?usp=sharing)
+![SESSION21](https://drive.google.com/file/d/1hMJoqdL-dfnt3eUVZrrj4qczv8tBrg4C/view?usp=sharing)
 
 
 
