@@ -1,4 +1,4 @@
-# Augmented-Reality-Keyboard
+# Virtual-Keyboard
 In this project, a virtual keyboard is created which is operated by pointing a key on a virtual grid using camera. First a grid is keyboard grid is made. A random is chosen and made into a physical pointer. This is obtained by thresholding. Every time the pointer stays above a key for a given interval, the key is clicked and the input is saved.
 
 PyCharm is used here for efficient programming.
@@ -17,6 +17,6 @@ PyCharm is used here for efficient programming.
 
 **NOTE**: Works on single finger input during the keyboard input.
 
-## Achievements
-![SESSION21](https://user-images.githubusercontent.com/57084217/131241956-cc982633-bdf2-4727-9404-15a2a5c90e51.jpg)
-![python pic](https://user-images.githubusercontent.com/57084217/131242014-048eeb45-b01e-4957-b8aa-0b6bb234ebb6.PNG)
+
+
+
