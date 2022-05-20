@@ -7,7 +7,7 @@ PyCharm is used here for efficient programming.
 `pip install -r requirements.txt`
 
 ## Process
-* Use `https://github.com/Polokghosh53/Augmented-Reality-Keyboard.git` to clone the files in your local directory.
+* Use `https://github.com/RohitSinghee228/Virtual-Keyboard` to clone the files in your local directory.
 * Install the dependencies in PyCharm IDE using the terminal console or command prompt.
 * Go to `Run`>`Edit Configurations` after selecting or clicking the `range_det.py` file. After a window opens write `--filter HSV --webcam` on `Parameters` and click Apply. This activates the threshold bar window to open up and do the manual adjustment to the color pointer.
 ![python pic](https://user-images.githubusercontent.com/57084217/131241749-4b1ac918-1263-4557-96cf-1dd4558bb21c.PNG)
