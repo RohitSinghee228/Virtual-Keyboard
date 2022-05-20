@@ -17,7 +17,7 @@ PyCharm is used here for efficient programming.
 
 **NOTE**: Works on single finger input during the keyboard input.
 ## Achievements
-![SESSION21]([https://drive.google.com/file/d/1hMJoqdL-dfnt3eUVZrrj4qczv8tBrg4C/view?usp=sharing](https://github.com/RohitSinghee228/Virtual-Keyboard/blob/main/Virtual%20Keyboard%20Paper.jpg))
+![SESSION21](https://github.com/RohitSinghee228/Virtual-Keyboard/blob/main/Virtual%20Keyboard%20Paper.jpg)
 
 
 
