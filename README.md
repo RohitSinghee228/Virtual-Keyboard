@@ -16,7 +16,7 @@ PyCharm is used here for efficient programming.
 * Now, run the `AR-Keyboard.py`.
 
 **NOTE**: Works on single finger input during the keyboard input.
-Research Paper Link : https://link.springer.com/chapter/10.1007/978-981-16-4284-5_7
+* Research Paper Link : https://link.springer.com/chapter/10.1007/978-981-16-4284-5_7
 ## Achievements
 ![SESSION21](https://github.com/RohitSinghee228/Virtual-Keyboard/blob/main/Virtual%20Keyboard%20Paper.jpg)
 
